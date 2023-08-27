@@ -12,14 +12,14 @@ if (randomNumber == 0) {
 
 if (randomNumber == 1) {
     greeting = "Hej";
-} 
+}
 
-if (randomNumber == 2 ) {
+if (randomNumber == 2) {
     greeting = "Hallo";
-  }
+}
 
 
 
 //console.log(randomNumber);
- const name = prompt("what's your name? ");
- console.log(`${greeting} mr/mrs: ${name}`);
+const name = prompt("what's your name? ");
+console.log(`${greeting} mr/mrs: ${name}`);
